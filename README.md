@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="./frontend/public/preview.png" alt="Expense Tracker">
+      <img src="https://raw.githubusercontent.com/aryan2870/Expense-Tracker/main/frontend/public/preview.png" alt="Expense Tracker">
     </a>
   <br />
 
